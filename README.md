@@ -17,4 +17,4 @@ You can view all your Kubernetes objects
 
 You can even access logs of running pods:
 
-![logs](logs.png)
+![logs](log.png)
