@@ -5,6 +5,8 @@ Kubernetes Cabin is a Mobile App for Kubernetes.
 
 It is currently in private testing.
 
+Use this repository to leave any issues you might face.
+
 You can add multiple clusters
 
 ![clusters](cluster.png)
