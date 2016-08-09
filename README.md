@@ -1,5 +1,5 @@
 Issues for Cabin
-----------------
+================
 
 Kubernetes Cabin is a Mobile App for Kubernetes.
 
@@ -8,7 +8,7 @@ It is currently in private testing. Email info at skippbox dot com to get early 
 Use this repository to leave any issues you might face.
 
 Features Overview
-~~~~~~~~~~~~~~~~~
+-----------------
 
 * Add k8s clusters with token or basic auth authentication.
 * Swipe left to edit or delete entities
@@ -28,7 +28,7 @@ Features Overview
 
 
 Screenshots
-~~~~~~~~~~~
+-----------
 
 You can add multiple clusters
 
