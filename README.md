@@ -28,7 +28,7 @@ Features Overview
 * Access complete YAML of objects
 * Switch services type
 * Edit service ports
-* Expose deployment via a service
+* Open NodePort service in browser
 
 WIP
 ---
