@@ -12,11 +12,15 @@ Features Overview
 
 * Add k8s clusters with token or basic auth authentication.
 * Swipe left to edit or delete entities
+* Swipe down to refresh lists
 * Mark Nodes as unschedulable
 * Put Nodes in Maintenance mode
 * Remove and add labels
 * Query by labels
+* Create basic deployments with single image
 * Scale deployments
+* Basic rolling update by changing the image only.
+* Expose deployment via a service
 * Access logs in multiple containers
 * Exec commands in containers
 * Set view based on namespaces
@@ -24,7 +28,14 @@ Features Overview
 * Access complete YAML of objects
 * Switch services type
 * Edit service ports
-* WIP: Deploy apps via Helm
+* Expose deployment via a service
+
+WIP
+---
+
+* Add Helm stores in Settings
+* View Charts in stores
+* Deploy apps via Helm (none not to work)
 
 
 Screenshots
